@@ -11,3 +11,6 @@ This project aims to create a password generator application using Python, allow
 
 CODSOFT TASK 4
 My fourth task is to design a Rock-Paper-Scissors game in which we have to enter our choice. It will then display the result, indicating whether the user wins, loses, or if it's a tie. Additionally, the game will keep track of the user's and computer's scores for multiple rounds.
+
+CODSOFT TASK 5
+"My fifth task is to design a Quiz Game in which we have to ask users multiple-choice questions on a specific topic. The game should keep track of the score."
